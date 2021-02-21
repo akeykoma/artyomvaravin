@@ -1,2 +1,3 @@
-# artyomvaravin
-Types of musical instruments
+# LR2
+Варавин Артем МКИС21 
+Виды музыкальных инструментов 
